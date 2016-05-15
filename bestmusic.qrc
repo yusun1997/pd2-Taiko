@@ -1,0 +1,6 @@
+<RCC>
+    <qresource prefix="/bestmusic">
+        <file>cena.mp3</file>
+        <file>nice.wav</file>
+    </qresource>
+</RCC>

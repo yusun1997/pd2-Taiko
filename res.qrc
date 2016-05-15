@@ -1,0 +1,14 @@
+<RCC>
+    <qresource prefix="/image">
+        <file>background.jpg</file>
+        <file>drum1-fix.png</file>
+        <file>heart.png</file>
+        <file>HOWTOPLAY.jpg</file>
+        <file>leftdrum.wav</file>
+        <file>leftheart.png</file>
+        <file>menu.jpg</file>
+        <file>rightdrum.wav</file>
+        <file>rightheart.png</file>
+        <file>vic.png</file>
+    </qresource>
+</RCC>
